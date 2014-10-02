@@ -1,4 +1,11 @@
-title_tag_text: Solo, a Jekyll Theme
-h1_tag_text: Solo
+title_tag_text: pikir, stop met piekeren
+h1_tag_text: pikir
 
-exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
+exclude:
+  - Procfile
+  - Gruntfile.js
+  - README.md
+  - package.json
+  - CNAME
+  - node_modules
+  - vendor
