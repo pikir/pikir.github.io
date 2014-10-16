@@ -1,7 +1,13 @@
+<div class="first">
+<p>
+Het Nederlandse woord <strong>piekeren</strong> is afgeleid van
+<strong>pikir</strong>, wat <strong>denken</strong> betekent in het
+Indonesisch.
+</p>
 
-Het Nederlandse woord **piekeren** is afgeleid van **pikir**, wat **denken**
-betekent in het Indonesisch.
+<p><br></p>
+</div>
 
-<br>
-
-Door anders the **denken**, kun je stoppen met **piekeren**.
+<p class="slogan">
+Door anders the <strong>denken</strong> kun je stoppen met <strong>piekeren</strong>.
+</p>
