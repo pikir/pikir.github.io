@@ -4,4 +4,4 @@ betekent in het Indonesisch.
 
 <br>
 
-Laat ons **meedenken**, dan kunt u stoppen met **piekeren**.
+Door anders the **denken**, kun je stoppen met **piekeren**.
